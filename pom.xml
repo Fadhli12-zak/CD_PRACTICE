@@ -3,6 +3,7 @@
   <groupId>io.github.fadhli12zak</groupId>
   <artifactId>CD_PRACTICE</artifactId>
   <version>0.3.7</version>
+  <packaging>jar</packaging>
 
 <dependencies>
   <dependency>
